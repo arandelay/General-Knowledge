@@ -1,3 +1,2 @@
-# General-Knowledge
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/McPolos/General-Knowledge)
+USE IN WEB BROWSER
+https://jazzy-crisp-cefb9f.netlify.app
